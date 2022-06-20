@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Cpp/BackJoon/backjoon.cpp
+iostream
+-
+algorithm
+-
+stack
+-
+vector
+-
+string.h
+-
+queue
+-
+
